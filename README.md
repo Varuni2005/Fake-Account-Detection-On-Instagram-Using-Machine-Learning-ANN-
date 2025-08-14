@@ -1,0 +1,2 @@
+# Fake-Account-Detection-On-Instagram-Using-Machine-Learning-ANN-
+ Developed an efficient machine learning model that can automatically identify and classify fake Instagram accounts by  analyzing various user profile attributes and activity patterns. The goal is to reduce the prevalence of fake accounts on the  platform by providing a reliable mechanism for account verification with accuracy of 90% 
